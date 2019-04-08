@@ -1,0 +1,8 @@
+[package]
+name = "doser"
+version = "0.1.0"
+authors = ["Cedric <cedric.brancourt@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+num-rational = "0.2"
