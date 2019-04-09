@@ -23,7 +23,7 @@ impl std::fmt::Display for Ingredient {
 
 #[cfg(test)]
 mod tests {
-    use crate::Ingredient;
+    use crate::ingredient::Ingredient;
     use num_rational::Ratio;
 
     #[test]
