@@ -1,4 +1,4 @@
-use crate::Ingredient;
+use crate::ingredient::Ingredient;
 use num_rational::Ratio;
 
 pub fn parse(input: &str) -> Vec<Ingredient> {
